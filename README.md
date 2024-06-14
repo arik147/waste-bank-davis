@@ -5,8 +5,11 @@ How to Run Code?
     ```
     git clone https://github.com/arik147/waste-bank-davis.git
     ```
+    or
+   
+    Download ZIP Source Code directly 
 
-2. Run using python in terminal
+3. Run using python in terminal
    ```
     python wasteBankDashboard.py
     ```
