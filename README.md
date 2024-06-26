@@ -7,9 +7,6 @@ How to Run Code?
     ```
     or
    
-    Download ZIP Source Code directly 
+    Download ZIP Source Code directly
 
-3. Run using python in terminal
-   ```
-    python wasteBankDashboard.py
-    ```
+2. Open .ipynb in Code Editor or Import file to Google Colab
