@@ -7,6 +7,6 @@ How to Run Code?
     ```
     or
    
-    Download ZIP Source Code directly
+    Download ZIP Source Code directly from 'Code' green button above
 
 2. Open .ipynb in Code Editor or Import file to Google Colab
